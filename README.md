@@ -32,3 +32,10 @@ AI_Product_Analytics/
 - prompt_editor has the highest session duration but is most associated with churned users
 - India has the highest churn rate among all countries (55.6%)
 - September 2025 had a significant churn spike
+
+## Project Series
+
+This is Part 1 of a 3-part analytics project series.
+- **Part 1:** AI Product Usage Analytics *(current)*
+- **Part 2:** System Monitoring Analytics + Power BI
+- **Part 3:** ML-Ready Analysis
